@@ -7,3 +7,22 @@ Vocational qualification
 Bachelor's degree
 Master's degree
 Doctorate or higher
+
+
+-- Select one --
+No formal education
+
+Associate's Degree
+Bachelor's Degree
+Master's Degree
+
+Juris Doctor
+Professional Doctorate
+
+Certificate
+Higher Certificate
+Post Graduate Cert Certificate
+
+Diploma
+Higher Diploma
+Doctorate Awarded
